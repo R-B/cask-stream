@@ -1,0 +1,10 @@
+{
+  "title": "Cask",
+  "lang": "en-gb",
+  "footer": "Built with [Portfolio Starter](https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info) adapted by me.",
+  "url": "https://amazing-torte-0653ba.netlify.app/",
+  "author": {
+    "name": "rb",
+    "email": "robbieblundell@pm.me"
+  }
+}
